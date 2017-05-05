@@ -3,6 +3,9 @@
 - Allows queueing albums for playback
 - Plays the queue, one track at a time
 
+## Demo
+[https://viiqswim.github.io/music-player-angular/public/](https://viiqswim.github.io/music-player-angular/public/)
+
 ## USAGE
 
 ### Run:
